@@ -35,6 +35,16 @@ I'm an undergrad student and an aspiring engineer working at the intersection of
 </table>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,opencv,linux,ubuntu,bash,powershell,docker,kubernetes,git,github,gitlab,vscode,anaconda,cmake,raspberrypi,aws,postgres,mysql,django,react,nextjs,nodejs,html,css,js,ts,latex,matlab&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+</p>
+
+<p align="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzQ0Zndsd3hwNWU1eTIzdjRsN3k0ZGVtcTAzZjR1cGszbWExcGxmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EizPK3InQbrNK/giphy.gif" width="300" alt="Animated GIF" />
 </p>
 

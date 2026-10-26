@@ -10,7 +10,7 @@ I'm an undergrad student and an aspiring engineer working at the intersection of
 ### What I'm upto
 
 * ML Intern at **LumeTech Innovations**, working on building deep neural nets for energy monitoring and optimization.
-* Working on **multimodal intelligent systems, data engineering pipelines, and microservices architectures.**
+* Working on **multimodal intelligent systems, data engineering pipelines, and autonomous agents.**
 * Previously Machine Learning Head at **IECSE Manipal**, leading technical and research projects.
 * Currently senior undergrad at Manipal Institute of Technology, pursuing Math and CS with a minor in Network Analytics.
 

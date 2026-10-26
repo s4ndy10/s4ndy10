@@ -2,6 +2,11 @@
 
 I'm an undergrad student and an aspiring engineer working at the intersection of **Deep Learning, Software Engineering, and Distributed Systems**.
 
+<p align="left">
+    <a href="https://www.linkedin.com/in/sandeepb3008/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:sandeepb3008@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+
 ### What I'm upto
 
 * ML Intern at **LumeTech Innovations**, working on building deep neural nets for energy monitoring and optimization.
@@ -52,11 +57,10 @@ I'm an undergrad student and an aspiring engineer working at the intersection of
 ### Research Interests
 
 * ****
-* **Deep Learning Systems**
-* **Computational Biology**
-* **Reinforcement Learning**
-* **Generative Models for Energy**
-* **Robotics and Physical Intelligence**
+* **Deep Learning Systems (Minor Specialization Paper and Personal Projects)**
+* **Natural Language Processing and Computer Vision (Personal Projects)**
+* **Reinforcement Learning (1 Paper in progress)**
+* **Computational Biology (1 Project Completed)**
 
 <p align="center">
   <picture>
